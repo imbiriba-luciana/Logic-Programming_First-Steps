@@ -1,2 +1,2 @@
 # Curso Alura
- Javascript, HTML e CSS
+ Javascript, HTML and CSS
